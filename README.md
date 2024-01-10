@@ -11,6 +11,15 @@ This Python script generates random images with various shapes (circles, hexagon
 - Avoids overlapping shapes to ensure clear and distinct patterns.
 - Configurable settings for the number of images, image dimensions, number of shapes per image, and maximum transparent shapes.
 
+## Examples
+
+Here are some examples of images generated using the script:
+
+![Example 1](https://raw.githubusercontent.com/Dreamink-Official/random_shape_generator/main/examples/random_shapes_a4_2.png)
+![Example 2](https://raw.githubusercontent.com/Dreamink-Official/random_shape_generator/main/examples/random_shapes_a4_28.png)
+![Example 3](https://raw.githubusercontent.com/Dreamink-Official/random_shape_generator/main/examples/random_shapes_a4_3.png)
+![Example 4](https://raw.githubusercontent.com/Dreamink-Official/random_shape_generator/main/examples/random_shapes_a4_43.png)
+
 ## Installation
 
 1. Clone the repository to your local machine:
@@ -51,3 +60,7 @@ This Python script generates random images with various shapes (circles, hexagon
     ```
 
 4. The generated images will be saved in the current directory with filenames like `random_shapes_a4_1.png`, `random_shapes_a4_2.png`, etc.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
