@@ -8,7 +8,7 @@ This Python script generates random images with various shapes (circles, hexagon
 
 - Generates images with random shapes, colors, and transparency.
 - Supports different types of shapes, including circles, hexagons, rectangles, triangles, and letters.
-- Avoids overlapping shapes to ensure clear and distinct patterns.
+- Avoids fully overlapping shapes to ensure clear and distinct patterns.
 - Configurable settings for the number of images, image dimensions, number of shapes per image, and maximum transparent shapes.
 
 ## Examples
@@ -61,6 +61,4 @@ Here are some examples of images generated using the script:
 
 4. The generated images will be saved in the current directory with filenames like `random_shapes_a4_1.png`, `random_shapes_a4_2.png`, etc.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
